@@ -1,1 +1,1 @@
-# Coffe_shop_inventory
+# Coffee_shop_inventory
